@@ -76,7 +76,7 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 ## FAQs
 
  * How do I access Neonite V2?
-   * You can access Neonite V2's dashboard at http://localhost:5595/.
+   * You can access Neonite V2 at http://localhost:5595/.
  * Can I go in-game?
    * No, however, Neonite++ is available to use for in-game support, Check it out [Here](https://neonite.dev).
  * Will I get banned?
